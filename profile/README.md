@@ -24,7 +24,7 @@ RetroSpecs is a revolutionary smart glasses system that continuously captures yo
 - Daily routine assistance
 - Important conversation recall
 - Object location ("Where did I put my keys?")
-
+- 
 ## Technical Architecture
 
 ### Frontend ([GitHub Repo](https://github.com/RetroSpecs-Suite/RetroSpecs-Frontend))
@@ -44,6 +44,12 @@ RetroSpecs is a revolutionary smart glasses system that continuously captures yo
 - Raspberry Pi Camera Module
 - Python OpenCV for image capture
 - Intelligent caching system to filter similar images
+
+## Demo
+
+<div align="center">
+  <img src="./demo.gif" alt="RetroSpecs Website" width="600"/>
+</div>
 
 ## Project Status
 This is a proof of concept developed during CheeseHacks 2024. While the core functionality is implemented, additional features and optimizations would be needed for production use.
