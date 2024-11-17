@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./website.gif" alt="RetroSpecs Website" width="600"/>
+</div>
 
 # RetroSpecs - your memories, frame by frame
 *An AI-powered memory assistant for individuals with Alzheimer's*
