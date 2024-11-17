@@ -2,7 +2,7 @@
   <img src="./website.gif" alt="RetroSpecs Website" width="600"/>
 </div>
 
-# RetroSpecs - your memories, frame by frame
+# RetroSpecs - your memories, frame by frame (Winner of CheeseHacks 2024)
 *An AI-powered memory assistant for individuals with Alzheimer's*
 
 *Built for CheeseHacks 2024 🧀*
