@@ -34,6 +34,9 @@ RetroSpecs is a revolutionary smart glasses system that continuously captures yo
 - Object location ("Where did I put my keys?")
 
 ## Technical Architecture
+<div>
+  <img src="./RetroSpecs.png" alt="RetroSpecs Website" width="600"/>
+</div>
 
 ### Frontend ([GitHub Repo](https://github.com/RetroSpecs-Suite/RetroSpecs-Frontend))
 - React.js web application
