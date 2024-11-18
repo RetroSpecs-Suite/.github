@@ -1,3 +1,11 @@
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h1> 🎉 1st Place Overall at CheeseHacks 2024 🎉 </h1>
+    </summary>
+  </ul>
+</div>
+
 <div align="center">
   <img src="./website.gif" alt="RetroSpecs Website" width="600"/>
 </div>
@@ -5,7 +13,7 @@
 # RetroSpecs - your memories, frame by frame
 *An AI-powered memory assistant for individuals with Alzheimer's*
 
-*Built for and Winner of CheeseHacks 2024 🧀* 
+*Built for CheeseHacks 2024 🧀* 
 
 ## Overview
 
@@ -24,7 +32,7 @@ RetroSpecs is a revolutionary smart glasses system that continuously captures yo
 - Daily routine assistance
 - Important conversation recall
 - Object location ("Where did I put my keys?")
-- 
+
 ## Technical Architecture
 
 ### Frontend ([GitHub Repo](https://github.com/RetroSpecs-Suite/RetroSpecs-Frontend))
